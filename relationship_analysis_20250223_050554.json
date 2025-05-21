@@ -1,0 +1,35 @@
+{
+  "relationships": [
+    {
+      "feature1": "Revenue (USD)",
+      "feature2": "Employees",
+      "type": "Positive Correlation",
+      "description": "Companies with more employees tend to have higher revenue"
+    },
+    {
+      "feature1": "Revenue (USD)",
+      "feature2": "Online Mentions",
+      "type": "Positive Correlation",
+      "description": "Companies with higher revenue tend to have more online mentions"
+    },
+    {
+      "feature1": "Industry",
+      "feature2": "Market Growth (%)",
+      "type": "Industry Impact",
+      "description": "Different industries exhibit varying levels of market growth"
+    },
+    {
+      "feature1": "Competitor Count",
+      "feature2": "Market Growth (%)",
+      "type": "Positive Correlation",
+      "description": "Markets with higher growth rates tend to attract more competitors"
+    },
+    {
+      "feature1": "Customer Ratings",
+      "feature2": "Revenue (USD)",
+      "type": "Positive Correlation",
+      "description": "Companies with better customer ratings may achieve higher revenue"
+    }
+  ],
+  "timestamp": "20250223_050554"
+}

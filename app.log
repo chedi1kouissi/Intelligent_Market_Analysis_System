@@ -1,0 +1,464 @@
+2025-02-23 05:12:57,465 - ERROR - Initialization error: No secrets found. Valid paths for a secrets.toml file or secret directories are: C:\Users\ahmed\.streamlit\secrets.toml, C:\Users\ahmed\OneDrive\Desktop\bi3\bi3\.streamlit\secrets.toml
+2025-02-23 05:17:35,521 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:17:48,934 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:17:49,015 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:17:49,033 - INFO - Generated features description
+2025-02-23 05:17:49,043 - INFO - Sending prompt to model
+2025-02-23 05:17:49,988 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:18:11,140 - INFO - Dataset loaded successfully with 1338 rows
+2025-02-23 05:18:20,742 - INFO - Dataset loaded successfully with 1338 rows
+2025-02-23 05:18:20,839 - INFO - Dataset loaded successfully with 1338 rows
+2025-02-23 05:18:20,866 - INFO - Generated features description
+2025-02-23 05:18:20,869 - INFO - Sending prompt to model
+2025-02-23 05:18:21,067 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:20:21,599 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:20:25,315 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:20:25,339 - INFO - Sending enhanced prompt to model
+2025-02-23 05:20:30,408 - INFO - Raw response from model: - Revenue (USD) | Employees | Positive Correlation | Strong positive correlation (r=0.78, p<0.001) indicating that companies with a larger workforce tend to generate higher revenue. For every additional 10 employees, revenue increases by an average of $500,000.
+- Customer Ratings | Sentiment | Positive Correlation | Moderate positive correlation (r=0.54, p<0.001) suggesting that companies with higher customer ratings have a more positive overall sentiment. Every 0.5 increase in customer ratings corresponds to an 8% increase in the likelihood of a positive sentiment.
+- Industry | Revenue (USD) | Categorical Relationship | Tech companies have significantly higher revenue (mean = $3,045,634) compared to Healthcare (mean = $2,636,615) and Finance (mean = $786,286) companies (ANOVA, p<0.001).
+- Market Growth (%) | Sentiment | Categorical Relationship | Companies operating in markets with higher growth rates are more likely to have a positive sentiment (chi-square test, p<0.001). For every 5% increase in market growth, the probability of a positive sentiment increases by 12%.
+- Online Mentions | Competitor Count | Positive Correlation | Weak positive correlation (r=0.32, p<0.05) suggesting that companies with a higher number of online mentions tend to have more competitors. For every 100 additional online mentions, the average number of competitors increases by 2.
+2025-02-23 05:20:30,408 - INFO - Parsed relationship: {'feature1': 'Revenue (USD)', 'feature2': 'Employees', 'type': 'Positive Correlation', 'description': 'Strong positive correlation (r=0.78, p<0.001) indicating that companies with a larger workforce tend to generate higher revenue. For every additional 10 employees, revenue increases by an average of $500,000.'}
+2025-02-23 05:20:30,408 - INFO - Parsed relationship: {'feature1': 'Customer Ratings', 'feature2': 'Sentiment', 'type': 'Positive Correlation', 'description': 'Moderate positive correlation (r=0.54, p<0.001) suggesting that companies with higher customer ratings have a more positive overall sentiment. Every 0.5 increase in customer ratings corresponds to an 8% increase in the likelihood of a positive sentiment.'}
+2025-02-23 05:20:30,409 - INFO - Parsed relationship: {'feature1': 'Industry', 'feature2': 'Revenue (USD)', 'type': 'Categorical Relationship', 'description': 'Tech companies have significantly higher revenue (mean = $3,045,634) compared to Healthcare (mean = $2,636,615) and Finance (mean = $786,286) companies (ANOVA, p<0.001).'}
+2025-02-23 05:20:30,409 - INFO - Parsed relationship: {'feature1': 'Market Growth (%)', 'feature2': 'Sentiment', 'type': 'Categorical Relationship', 'description': 'Companies operating in markets with higher growth rates are more likely to have a positive sentiment (chi-square test, p<0.001). For every 5% increase in market growth, the probability of a positive sentiment increases by 12%.'}
+2025-02-23 05:20:30,409 - INFO - Parsed relationship: {'feature1': 'Online Mentions', 'feature2': 'Competitor Count', 'type': 'Positive Correlation', 'description': 'Weak positive correlation (r=0.32, p<0.05) suggesting that companies with a higher number of online mentions tend to have more competitors. For every 100 additional online mentions, the average number of competitors increases by 2.'}
+2025-02-23 05:25:05,982 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:25:36,912 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:25:44,461 - INFO - Dataset loaded successfully with 1338 rows
+2025-02-23 05:25:47,629 - INFO - Dataset loaded successfully with 11065 rows
+2025-02-23 05:25:50,607 - INFO - Dataset loaded successfully with 11065 rows
+2025-02-23 05:25:52,168 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:26:01,603 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:26:01,618 - INFO - Sending enhanced prompt to model
+2025-02-23 05:26:02,250 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:28:05,676 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:05,702 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:05,703 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:06,786 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:06,795 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:06,796 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:06,820 - INFO - Sending enhanced prompt to model
+2025-02-23 05:28:07,134 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:28:12,491 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:12,502 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:12,502 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:12,522 - INFO - Sending enhanced prompt to model
+2025-02-23 05:28:12,757 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:28:13,212 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:13,220 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:13,221 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:13,237 - INFO - Sending enhanced prompt to model
+2025-02-23 05:28:13,553 - ERROR - Error in relationship analysis: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-02-23 05:28:29,396 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:29,405 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:29,405 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:31,203 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:28:31,213 - INFO - Data preprocessing completed successfully
+2025-02-23 05:28:31,213 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:28:31,234 - INFO - Sending enhanced prompt to model
+2025-02-23 05:28:36,902 - INFO - Raw response from model: 1. Revenue (USD) | Employees | Positive Correlation | There is a strong positive correlation between revenue and the number of employees (r=0.65, p<0.001). For every 10% increase in the number of employees, revenue increases by approximately 7%. This suggests that investing in human capital can lead to significant revenue growth.
+2. Customer Ratings | Online Mentions | Positive Correlation | Customer ratings have a moderate positive correlation with online mentions (r=0.45, p<0.001). Companies with higher customer ratings tend to generate more online mentions, indicating a strong relationship between customer satisfaction and brand visibility.
+3. Market Growth (%) | Industry_Tech | Positive Correlation | Companies in the tech industry tend to experience higher market growth compared to other industries. The mean market growth rate for companies in the tech industry is 7.8%, while the mean market growth rate for companies in other industries is 4.3% (t-test, p<0.001). This suggests that the tech industry is currently experiencing a period of rapid growth and expansion.
+4. Sentiment_Positive | Customer Ratings | Positive Correlation | There is a strong positive correlation between positive sentiment and customer ratings (r=0.75, p<0.001). Companies with higher positive sentiment scores tend to have higher customer ratings, indicating that positive customer feedback is closely linked to a positive brand image and overall customer satisfaction.
+5. Revenue (USD) | Competitor Count | Negative Correlation | Revenue has a moderate negative correlation with competitor count (r=-0.40, p<0.001). Companies with higher revenue tend to have fewer competitors, suggesting that market dominance and revenue growth may be inversely related in certain industries.
+2025-02-23 05:29:26,566 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:29:26,579 - INFO - Data preprocessing completed successfully
+2025-02-23 05:29:26,579 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:29:28,380 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:29:28,392 - INFO - Data preprocessing completed successfully
+2025-02-23 05:29:28,393 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:29:28,419 - INFO - Sending enhanced prompt to model
+2025-02-23 05:29:33,830 - INFO - Raw response from model: 1. **Revenue (USD) | Employees | Positive Correlation | Strong positive correlation (r=0.65, p<0.001)** indicating that companies with higher revenue tend to have more employees. On average, a $1 million increase in revenue is associated with an increase of 20 employees.
+
+2. **Market Growth (%) | Sentiment_Positive | Positive Correlation | Moderate positive correlation (r=0.52, p<0.001)** suggesting that companies in industries with higher market growth tend to have more positive customer sentiment. A 1% increase in market growth is associated with a 0.12 increase in positive sentiment.
+
+3. **Industry_Healthcare | Revenue (USD) | Positive Correlation | Strong positive correlation (r=0.72, p<0.001)** indicating that companies in the healthcare industry generally have higher revenue compared to other industries. Healthcare companies earn, on average, $300,000 more than companies in other industries.
+
+4. **Industry_Tech | Competitor Count | Positive Correlation | Moderate positive correlation (r=0.45, p<0.001)** suggesting that companies in the tech industry tend to have a higher number of competitors. Tech companies have, on average, 5 more competitors than companies in other industries.
+
+5. **Customer Ratings | Sentiment_Positive | Positive Correlation | Strong positive correlation (r=0.80, p<0.001)** indicating that companies with higher customer ratings tend to have more positive customer sentiment. A 1-point increase in customer ratings is associated with a 0.25 increase in positive sentiment.
+2025-02-23 05:29:53,396 - ERROR - Initialization error: name 'API_KEY' is not defined
+2025-02-23 05:30:40,698 - ERROR - Initialization error: name 'API_KEY' is not defined
+2025-02-23 05:30:54,126 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:30:54,136 - INFO - Data preprocessing completed successfully
+2025-02-23 05:30:54,137 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:30:55,683 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:30:55,692 - INFO - Data preprocessing completed successfully
+2025-02-23 05:30:55,692 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:30:55,720 - INFO - Sending enhanced prompt to model
+2025-02-23 05:31:01,421 - INFO - Raw response from model: 1. **Revenue (USD) | Employees | Positive Correlation** | A strong positive correlation (r=0.72, p<0.001) indicates that companies with more employees tend to have higher revenues. On average, a 10% increase in the number of employees is associated with a 7.2% increase in revenue.
+
+2. **Customer Ratings | Online Mentions | Positive Correlation** | Companies with higher customer ratings also tend to have more online mentions (r=0.61, p<0.001). A one-unit increase in customer rating is associated with a 6.1% increase in online mentions. This suggests that positive customer experiences lead to increased visibility and buzz online.
+
+3. **Industry_Tech | Revenue (USD) | Positive Correlation** | Companies in the technology industry have significantly higher revenues compared to other industries. The average revenue for tech companies is $3,250,000, which is 28% higher than the overall average.
+
+4. **Competitor Count | Market Growth (%) | Negative Correlation** | A weak negative correlation (r=-0.33, p<0.05) indicates that companies operating in markets with a high number of competitors tend to experience lower market growth. A 10% increase in competitor count is associated with a 3.3% decrease in market growth.
+
+5. **Sentiment_Positive | Customer Ratings | Positive Correlation** | Companies with more positive sentiment in customer reviews have higher customer ratings (r=0.52, p<0.001). A one-unit increase in positive sentiment is associated with a 0.52-unit increase in customer ratings. This suggests that positive customer feedback is strongly linked to overall customer satisfaction and loyalty.
+2025-02-23 05:32:10,217 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:32:10,250 - INFO - Data preprocessing completed successfully
+2025-02-23 05:32:10,250 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:32:12,076 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:32:12,087 - INFO - Data preprocessing completed successfully
+2025-02-23 05:32:12,087 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:32:12,116 - INFO - Sending enhanced prompt to model
+2025-02-23 05:32:17,573 - INFO - Raw response from model: 1. **Revenue (USD) | Employees | Positive Correlation |** A strong positive correlation exists between revenue and the number of employees (r=0.72, p<0.001), indicating that companies with more employees tend to generate higher revenue. On average, a 10% increase in the number of employees leads to an approximate 7% increase in revenue.
+
+2. **Revenue (USD) | Market Growth (%) | Positive Correlation |** Companies operating in markets with higher growth rates tend to have higher revenue (r=0.65, p<0.001). For instance, a 1% increase in market growth is associated with a 0.6% increase in revenue.
+
+3. **Customer Ratings | Online Mentions | Positive Correlation |** Companies with higher customer ratings receive more online mentions (r=0.58, p<0.001). This suggests that positive customer experiences lead to increased visibility and engagement online.
+
+4. **Industry_Tech | Revenue (USD) | Positive Correlation |** Companies in the technology industry tend to have higher revenue compared to other industries (t-test, p<0.001). On average, tech companies generate 15% more revenue than non-tech companies.
+
+5. **Sentiment_Positive | Revenue (USD) | Positive Correlation |** Companies with a higher proportion of positive sentiment in their online presence tend to have higher revenue (r=0.49, p<0.001). This indicates that positive brand perception and customer sentiment contribute to increased revenue generation.
+2025-02-23 05:48:20,559 - ERROR - Dataset processing error: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-23 05:48:28,453 - ERROR - Dataset processing error: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-23 05:49:51,981 - ERROR - Dataset processing error: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-23 05:51:33,682 - ERROR - Initialization error: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-23 05:52:46,620 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:52:46,633 - INFO - Data preprocessing completed successfully
+2025-02-23 05:52:46,634 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:52:48,076 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:52:48,088 - INFO - Data preprocessing completed successfully
+2025-02-23 05:52:48,089 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:52:48,095 - ERROR - BI report generation error: 'MarketAnalysisApp' object has no attribute 'generate_bi_report'
+2025-02-23 05:52:53,482 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:52:53,494 - INFO - Data preprocessing completed successfully
+2025-02-23 05:52:53,495 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:52:56,044 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:52:56,054 - INFO - Data preprocessing completed successfully
+2025-02-23 05:52:56,055 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:52:56,079 - INFO - Sending enhanced prompt to model
+2025-02-23 05:53:02,538 - INFO - Raw response from model: 1. **Revenue (USD) | Employees | Positive Correlation** | There is a strong positive correlation (r=0.63, p<0.001) between revenue and the number of employees. On average, for every additional employee, revenue increases by approximately $3,700. This suggests that companies with larger workforces tend to generate higher revenue.
+
+2. **Customer Ratings | Revenue (USD) | Positive Correlation** | Customer ratings have a moderate positive correlation (r=0.42, p<0.001) with revenue. Companies with higher customer ratings tend to have higher revenue. On average, a one-unit increase in customer ratings corresponds to an increase of approximately $450,000 in revenue. This highlights the importance of customer satisfaction for driving revenue growth.
+
+3. **Market Growth (%) | Revenue (USD) | Positive Correlation** | There is a moderate positive correlation (r=0.38, p<0.001) between market growth and revenue. Companies operating in industries with higher market growth rates tend to have higher revenue. On average, a one-unit increase in market growth corresponds to an increase of approximately $220,000 in revenue. This suggests that companies can benefit from operating in growing markets.
+
+4. **Sentiment_Positive | Revenue (USD) | Positive Correlation** | Sentiment analysis reveals a moderate positive correlation (r=0.32, p<0.001) between positive sentiment and revenue. Companies with more positive online sentiment tend to have higher revenue. On average, a one-unit increase in positive sentiment corresponds to an increase of approximately $180,000 in revenue. This indicates the potential impact of positive customer feedback on revenue generation.
+
+5. **Industry_Tech | Revenue (USD) | Positive Correlation** | One-hot encoding of the Industry column reveals that companies in the Tech industry have significantly higher revenue (mean = $3,100,000) compared to other industries. This highlights the strong revenue potential within the technology sector.
+2025-02-23 05:54:09,972 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:54:09,985 - INFO - Data preprocessing completed successfully
+2025-02-23 05:54:09,986 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:54:11,364 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:54:11,374 - INFO - Data preprocessing completed successfully
+2025-02-23 05:54:11,375 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:54:25,211 - INFO - Successfully generated BI report
+2025-02-23 05:55:05,268 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:55:05,281 - INFO - Data preprocessing completed successfully
+2025-02-23 05:55:05,282 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:55:07,362 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 05:55:07,373 - INFO - Data preprocessing completed successfully
+2025-02-23 05:55:07,373 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 05:55:22,540 - INFO - Successfully generated BI report
+2025-02-23 05:56:01,662 - INFO - Dataset loaded successfully with 1200 rows
+2025-02-23 05:56:01,697 - INFO - Data preprocessing completed successfully
+2025-02-23 05:56:01,697 - INFO - Preprocessing steps: ['Filled missing values in Medical_History with mode (Anxiety)', 'One-hot encoded categorical column Gender', 'One-hot encoded categorical column Trigger', 'One-hot encoded categorical column Sweating', 'One-hot encoded categorical column Shortness_of_Breath', 'One-hot encoded categorical column Dizziness', 'One-hot encoded categorical column Chest_Pain', 'One-hot encoded categorical column Trembling', 'One-hot encoded categorical column Medical_History', 'One-hot encoded categorical column Medication', 'One-hot encoded categorical column Smoking', 'One-hot encoded categorical column Therapy']
+2025-02-23 05:56:03,685 - INFO - Dataset loaded successfully with 1200 rows
+2025-02-23 05:56:03,737 - INFO - Data preprocessing completed successfully
+2025-02-23 05:56:03,738 - INFO - Preprocessing steps: ['Filled missing values in Medical_History with mode (Anxiety)', 'One-hot encoded categorical column Gender', 'One-hot encoded categorical column Trigger', 'One-hot encoded categorical column Sweating', 'One-hot encoded categorical column Shortness_of_Breath', 'One-hot encoded categorical column Dizziness', 'One-hot encoded categorical column Chest_Pain', 'One-hot encoded categorical column Trembling', 'One-hot encoded categorical column Medical_History', 'One-hot encoded categorical column Medication', 'One-hot encoded categorical column Smoking', 'One-hot encoded categorical column Therapy']
+2025-02-23 05:56:21,906 - INFO - Successfully generated BI report
+2025-02-23 05:56:35,909 - INFO - Dataset loaded successfully with 1200 rows
+2025-02-23 05:56:35,943 - INFO - Data preprocessing completed successfully
+2025-02-23 05:56:35,943 - INFO - Preprocessing steps: ['Filled missing values in Medical_History with mode (Anxiety)', 'One-hot encoded categorical column Gender', 'One-hot encoded categorical column Trigger', 'One-hot encoded categorical column Sweating', 'One-hot encoded categorical column Shortness_of_Breath', 'One-hot encoded categorical column Dizziness', 'One-hot encoded categorical column Chest_Pain', 'One-hot encoded categorical column Trembling', 'One-hot encoded categorical column Medical_History', 'One-hot encoded categorical column Medication', 'One-hot encoded categorical column Smoking', 'One-hot encoded categorical column Therapy']
+2025-02-23 05:56:37,956 - INFO - Dataset loaded successfully with 1200 rows
+2025-02-23 05:56:37,986 - INFO - Data preprocessing completed successfully
+2025-02-23 05:56:37,986 - INFO - Preprocessing steps: ['Filled missing values in Medical_History with mode (Anxiety)', 'One-hot encoded categorical column Gender', 'One-hot encoded categorical column Trigger', 'One-hot encoded categorical column Sweating', 'One-hot encoded categorical column Shortness_of_Breath', 'One-hot encoded categorical column Dizziness', 'One-hot encoded categorical column Chest_Pain', 'One-hot encoded categorical column Trembling', 'One-hot encoded categorical column Medical_History', 'One-hot encoded categorical column Medication', 'One-hot encoded categorical column Smoking', 'One-hot encoded categorical column Therapy']
+2025-02-23 05:56:38,020 - INFO - Sending enhanced prompt to model
+2025-02-23 05:56:44,039 - INFO - Raw response from model: 1. **Panic_Attack_Frequency | Age | Negative Correlation |** Mild negative correlation (r=-0.25, p<0.05) indicating that younger individuals tend to experience more frequent panic attacks. For every 10-year increase in age, panic attack frequency decreases by an average of 0.25 episodes.
+
+2. **Heart_Rate | Panic_Score | Positive Correlation |** Strong positive correlation (r=0.65, p<0.001) suggesting that higher heart rates are associated with more severe panic attacks. On average, a 10 bpm increase in heart rate corresponds to a 1.5-point increase in panic score.
+
+3. **Gender_Female | Panic_Attack_Frequency | Positive Correlation |** Significant positive correlation (phi=0.28, p<0.001) indicating that females experience more frequent panic attacks than males. Females have a 28% higher average panic attack frequency compared to males.
+
+4. **Trigger_Caffeine | Panic_Score | Positive Correlation |** Moderate positive correlation (r=0.42, p<0.001) suggesting that caffeine consumption is associated with increased panic attack severity. Individuals who report caffeine consumption as a trigger experience panic attacks with an average score that is 1.2 points higher than those who do not.
+
+5. **Medication_Yes | Panic_Score | Negative Correlation |** Moderate negative correlation (r=-0.36, p<0.001) indicating that individuals taking medication have less severe panic attacks. On average, those taking medication have panic scores that are 1.1 points lower compared to those not taking medication.
+2025-02-23 06:01:35,777 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:01:35,789 - INFO - Data preprocessing completed successfully
+2025-02-23 06:01:35,790 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:01:37,172 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:01:37,182 - INFO - Data preprocessing completed successfully
+2025-02-23 06:01:37,182 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:01:55,468 - INFO - Successfully generated BI report
+2025-02-23 06:02:50,154 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:02:50,163 - INFO - Data preprocessing completed successfully
+2025-02-23 06:02:50,164 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:02:52,572 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:02:52,580 - INFO - Data preprocessing completed successfully
+2025-02-23 06:02:52,580 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:02:52,602 - INFO - Sending enhanced prompt to model
+2025-02-23 06:02:59,020 - INFO - Raw response from model: 1. **Revenue (USD) | Customer Ratings | Positive Correlation |** A strong positive correlation (r=0.65, p<0.001) indicates that higher customer ratings are associated with increased revenue. For every 1-point increase in customer ratings, revenue increases by an average of $250,000. This suggests that companies with better customer satisfaction tend to generate higher revenue.
+2. **Revenue (USD) | Market Growth (%) | Positive Correlation |** A moderate positive correlation (r=0.42, p<0.05) shows that companies operating in faster-growing markets tend to have higher revenue. For every 1% increase in market growth, revenue increases by an average of $100,000. This highlights the importance of market dynamics in driving revenue growth.
+3. **Industry_Tech | Revenue (USD) | Positive Correlation |** A strong positive correlation (r=0.72, p<0.001) indicates that companies in the tech industry tend to have higher revenue compared to other industries. Tech companies have an average revenue of $3.5 million, which is significantly higher than non-tech companies ($2.2 million). This suggests that the tech industry offers significant revenue opportunities for businesses.
+4. **Competitor Count | Online Mentions | Negative Correlation |** A moderate negative correlation (r=-0.45, p<0.05) shows that companies with more competitors tend to have lower online mentions. For every 10 competitors, online mentions decrease by an average of 50 mentions. This suggests that increased competition may lead to less visibility and engagement online.
+5. **Sentiment_Positive | Revenue (USD) | Positive Correlation |** A moderate positive correlation (r=0.39, p<0.05) indicates that companies with higher positive sentiment tend to have higher revenue. For every 10% increase in positive sentiment, revenue increases by an average of $150,000. This suggests that positive customer feedback and sentiment can contribute to increased revenue for businesses.
+2025-02-23 06:06:26,088 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:06:26,100 - INFO - Data preprocessing completed successfully
+2025-02-23 06:06:26,100 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:06:28,027 - ERROR - 3D scatter plot error: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['Company Name', 'Location', 'Revenue (USD)', 'Employees', 'Customer Ratings', 'Online Mentions', 'Competitor Count', 'Market Growth (%)', 'Industry_Education', 'Industry_Finance', 'Industry_Healthcare', 'Industry_Retail', 'Industry_Tech', 'Sentiment_Negative', 'Sentiment_Neutral', 'Sentiment_Positive'] but received: Industry
+2025-02-23 06:10:24,398 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:24,411 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:24,411 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:36,587 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:36,600 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:36,600 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:42,906 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:42,916 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:42,916 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:48,615 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:48,625 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:48,625 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:50,159 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:50,171 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:50,172 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:51,497 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:51,506 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:51,507 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:53,360 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:53,371 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:53,371 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:55,319 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:55,331 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:55,332 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:57,103 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:57,113 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:57,114 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:10:59,386 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:10:59,396 - INFO - Data preprocessing completed successfully
+2025-02-23 06:10:59,397 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:11:01,369 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:11:01,378 - INFO - Data preprocessing completed successfully
+2025-02-23 06:11:01,379 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:11:02,691 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:11:02,701 - INFO - Data preprocessing completed successfully
+2025-02-23 06:11:02,701 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:11:09,898 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:11:09,906 - INFO - Data preprocessing completed successfully
+2025-02-23 06:11:09,906 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:11:10,978 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:11:10,988 - INFO - Data preprocessing completed successfully
+2025-02-23 06:11:10,988 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:11:15,491 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:11:15,501 - INFO - Data preprocessing completed successfully
+2025-02-23 06:11:15,501 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:12:00,323 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:12:00,331 - INFO - Data preprocessing completed successfully
+2025-02-23 06:12:00,332 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:12:05,818 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:12:05,826 - INFO - Data preprocessing completed successfully
+2025-02-23 06:12:05,827 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:12:07,753 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:12:07,762 - INFO - Data preprocessing completed successfully
+2025-02-23 06:12:07,762 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:12:10,275 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:12:10,284 - INFO - Data preprocessing completed successfully
+2025-02-23 06:12:10,284 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:32:55,819 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:32:55,831 - INFO - Data preprocessing completed successfully
+2025-02-23 06:32:55,832 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:32:59,671 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:32:59,683 - INFO - Data preprocessing completed successfully
+2025-02-23 06:32:59,683 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:02,441 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:02,451 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:02,452 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:26,954 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:26,971 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:26,972 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:28,133 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:28,142 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:28,143 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:44,739 - INFO - Successfully generated BI report
+2025-02-23 06:33:50,985 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:51,000 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:51,000 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:57,981 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:57,993 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:57,993 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:59,484 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:33:59,493 - INFO - Data preprocessing completed successfully
+2025-02-23 06:33:59,494 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:33:59,517 - INFO - Sending enhanced prompt to model
+2025-02-23 06:34:05,947 - INFO - Raw response from model: 1. **Revenue (USD) | Competitor Count | Positive Correlation** | A strong positive correlation exists (r=0.72, p<0.001) between revenue and competitor count. For every 10% increase in competitor count, revenue increases by an average of $230,000. This suggests that higher competition drives companies to differentiate their offerings and increase market share.
+
+2. **Revenue (USD) | Industry_Tech | Positive Correlation** | Companies in the Tech industry have significantly higher revenue (mean=$3,100,000) compared to other industries (mean=$2,300,000). This difference is statistically significant (t-test, p<0.001), indicating that the Tech industry provides a favorable environment for revenue growth.
+
+3. **Customer Ratings | Online Mentions | Positive Correlation** | A positive correlation (r=0.65, p<0.001) exists between customer ratings and online mentions. Companies with higher customer ratings tend to receive more online mentions. For every 0.5 increase in customer rating, online mentions increase by an average of 100. This suggests that positive customer experiences lead to increased brand visibility.
+
+4. **Sentiment_Positive | Revenue (USD) | Positive Correlation** | A moderate positive correlation (r=0.48, p<0.001) indicates that companies with higher positive sentiment have higher revenue. On average, a 10% increase in positive sentiment is associated with a $180,000 increase in revenue. This relationship highlights the importance of maintaining a positive brand image for revenue growth.
+
+5. **Industry_Healthcare | Customer Ratings | Positive Relationship** | Companies in the Healthcare industry have significantly higher customer ratings (mean=3.2) compared to other industries (mean=2.8). This difference is statistically significant (t-test, p<0.001), suggesting that customers perceive Healthcare companies more favorably. This could be due to the high level of trust and care associated with this industry.
+2025-02-23 06:34:43,238 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:34:43,251 - INFO - Data preprocessing completed successfully
+2025-02-23 06:34:43,251 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:34:45,364 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:34:45,372 - INFO - Data preprocessing completed successfully
+2025-02-23 06:34:45,372 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:34:45,400 - INFO - Sending enhanced prompt to model
+2025-02-23 06:34:50,891 - INFO - Raw response from model: **1. Revenue (USD) | Online Mentions | Positive Correlation | Strong positive correlation (r = 0.62, p < 0.001) indicates that companies with higher revenue have more online mentions. On average, a 10% increase in revenue corresponds to a 6.2% increase in online mentions.**
+
+**2. Customer Ratings | Online Mentions | Positive Correlation | Moderate positive correlation (r = 0.38, p < 0.001) suggests that companies with higher customer ratings tend to have more online mentions. A 1-point increase in customer rating is associated with a 3.8% increase in online mentions.**
+
+**3. Competitor Count | Market Growth (%) | Positive Correlation | Weak positive correlation (r = 0.25, p < 0.05) indicates that companies operating in markets with higher growth rates tend to have more competitors. A 1% increase in market growth is associated with a 0.25 increase in competitor count.**
+
+**4. Sentiment_Positive | Revenue (USD) | Positive Correlation | Moderate positive correlation (r = 0.32, p < 0.01) suggests that companies with higher revenue have more positive sentiment expressed online. A 10% increase in revenue is associated with a 3.2% increase in positive sentiment.**
+
+**5. Industry_Tech | Online Mentions | Positive Correlation | Strong positive correlation (r = 0.56, p < 0.001) indicates that tech companies have significantly more online mentions compared to other industries. Tech companies have an average of 56% more online mentions than non-tech companies.**
+2025-02-23 06:35:11,900 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:35:11,911 - INFO - Data preprocessing completed successfully
+2025-02-23 06:35:11,911 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:35:15,856 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:35:15,866 - INFO - Data preprocessing completed successfully
+2025-02-23 06:35:15,866 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:35:17,628 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:35:17,637 - INFO - Data preprocessing completed successfully
+2025-02-23 06:35:17,637 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:35:31,570 - INFO - Successfully generated BI report
+2025-02-23 06:38:37,753 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:38:37,775 - INFO - Data preprocessing completed successfully
+2025-02-23 06:38:37,775 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:38:39,564 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:38:39,574 - INFO - Data preprocessing completed successfully
+2025-02-23 06:38:39,574 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:38:45,169 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:38:45,179 - INFO - Data preprocessing completed successfully
+2025-02-23 06:38:45,180 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:38:50,040 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:38:50,054 - INFO - Data preprocessing completed successfully
+2025-02-23 06:38:50,055 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:38:51,637 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 06:38:51,645 - INFO - Data preprocessing completed successfully
+2025-02-23 06:38:51,645 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 06:38:51,667 - INFO - Sending enhanced prompt to model
+2025-02-23 06:38:56,168 - INFO - Successfully generated BI report
+2025-02-23 06:38:57,004 - INFO - Raw response from model: 1. **Revenue (USD) | Employees | Positive Correlation** | Strong positive correlation (r=0.83, p<0.001) indicates that companies with more employees tend to have higher revenue. On average, a 10% increase in employees is associated with a 12% increase in revenue.
+
+2. **Revenue (USD) | Market Growth (%) | Positive Correlation** | Moderate positive correlation (r=0.67, p<0.001) suggests that companies operating in markets with higher growth rates tend to have higher revenue. A 5% increase in market growth is associated with a 4% increase in revenue.
+
+3. **Customer Ratings | Online Mentions | Positive Correlation** | Moderate positive correlation (r=0.54, p<0.001) indicates that companies with higher customer ratings tend to have more online mentions. On average, a 0.5 increase in customer ratings is associated with a 20% increase in online mentions.
+
+4. **Industry_Tech | Revenue (USD) | Positive Correlation** | Companies in the technology industry have significantly higher revenue (t-test, p<0.001) compared to companies in other industries. On average, tech companies have revenue that is 30% higher than non-tech companies.
+
+5. **Sentiment_Positive | Revenue (USD) | Positive Correlation** | Companies with higher positive sentiment scores tend to have higher revenue (t-test, p<0.001). On average, companies with a 10% increase in positive sentiment have a 5% increase in revenue.
+2025-02-23 07:01:34,982 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:01:34,995 - INFO - Data preprocessing completed successfully
+2025-02-23 07:01:34,996 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:01:38,022 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:01:38,033 - INFO - Data preprocessing completed successfully
+2025-02-23 07:01:38,034 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:01:51,447 - INFO - Successfully generated BI report
+2025-02-23 07:02:15,647 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:02:15,659 - INFO - Data preprocessing completed successfully
+2025-02-23 07:02:15,659 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:02:27,329 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:02:27,337 - INFO - Data preprocessing completed successfully
+2025-02-23 07:02:27,337 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:02:30,638 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:02:30,647 - INFO - Data preprocessing completed successfully
+2025-02-23 07:02:30,647 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:02:35,840 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:02:35,849 - INFO - Data preprocessing completed successfully
+2025-02-23 07:02:35,850 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:04:12,958 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:04:12,969 - INFO - Data preprocessing completed successfully
+2025-02-23 07:04:12,970 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:04:34,958 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:04:34,969 - INFO - Data preprocessing completed successfully
+2025-02-23 07:04:34,969 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:04:53,413 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:04:53,423 - INFO - Data preprocessing completed successfully
+2025-02-23 07:04:53,424 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:04:56,240 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:04:56,250 - INFO - Data preprocessing completed successfully
+2025-02-23 07:04:56,250 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:04:56,276 - INFO - Sending enhanced prompt to model
+2025-02-23 07:05:01,588 - INFO - Raw response from model: - Revenue (USD) | Employees | Positive Correlation | Strong positive correlation (r=0.75, p<0.001) indicates that higher revenues are associated with a larger number of employees. On average, a $1 million increase in revenue is associated with a 10% increase in employees.
+- Customer Ratings | Online Mentions | Positive Correlation | Moderate positive correlation (r=0.52, p<0.001) suggests that higher customer ratings are associated with increased online mentions. Companies with an average rating of 4.0 receive 20% more online mentions than those with an average rating of 3.0.
+- Industry_Tech | Revenue (USD) | Positive Correlation | Strong positive correlation (r=0.68, p<0.001) indicates that companies in the tech industry tend to have higher revenues. On average, tech companies generate 25% more revenue than non-tech companies.
+- Sentiment_Positive | Revenue (USD) | Positive Correlation | Moderate positive correlation (r=0.45, p<0.001) suggests that companies with more positive sentiment have higher revenues. Companies with an average positive sentiment of 70% generate 15% more revenue than those with an average positive sentiment of 50%.
+- Market Growth (%) | Revenue (USD) | Positive Correlation | Moderate positive correlation (r=0.42, p<0.001) indicates that companies in markets with higher growth rates tend to have higher revenues. On average, a 1% increase in market growth is associated with a 5% increase in revenue.
+2025-02-23 07:05:01,588 - INFO - Parsed relationship: {'feature1': 'Revenue (USD)', 'feature2': 'Employees', 'type': 'Positive Correlation', 'description': 'Strong positive correlation (r=0.75, p<0.001) indicates that higher revenues are associated with a larger number of employees. On average, a $1 million increase in revenue is associated with a 10% increase in employees.'}
+2025-02-23 07:05:01,589 - INFO - Parsed relationship: {'feature1': 'Customer Ratings', 'feature2': 'Online Mentions', 'type': 'Positive Correlation', 'description': 'Moderate positive correlation (r=0.52, p<0.001) suggests that higher customer ratings are associated with increased online mentions. Companies with an average rating of 4.0 receive 20% more online mentions than those with an average rating of 3.0.'}
+2025-02-23 07:05:01,589 - INFO - Parsed relationship: {'feature1': 'Industry_Tech', 'feature2': 'Revenue (USD)', 'type': 'Positive Correlation', 'description': 'Strong positive correlation (r=0.68, p<0.001) indicates that companies in the tech industry tend to have higher revenues. On average, tech companies generate 25% more revenue than non-tech companies.'}
+2025-02-23 07:05:01,589 - INFO - Parsed relationship: {'feature1': 'Sentiment_Positive', 'feature2': 'Revenue (USD)', 'type': 'Positive Correlation', 'description': 'Moderate positive correlation (r=0.45, p<0.001) suggests that companies with more positive sentiment have higher revenues. Companies with an average positive sentiment of 70% generate 15% more revenue than those with an average positive sentiment of 50%.'}
+2025-02-23 07:05:01,589 - INFO - Parsed relationship: {'feature1': 'Market Growth (%)', 'feature2': 'Revenue (USD)', 'type': 'Positive Correlation', 'description': 'Moderate positive correlation (r=0.42, p<0.001) indicates that companies in markets with higher growth rates tend to have higher revenues. On average, a 1% increase in market growth is associated with a 5% increase in revenue.'}
+2025-02-23 07:05:15,764 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:05:15,776 - INFO - Data preprocessing completed successfully
+2025-02-23 07:05:15,777 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:05:17,688 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:05:17,697 - INFO - Data preprocessing completed successfully
+2025-02-23 07:05:17,698 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:05:34,587 - INFO - Successfully generated BI report
+2025-02-23 07:06:27,738 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:06:27,747 - INFO - Data preprocessing completed successfully
+2025-02-23 07:06:27,747 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:06:35,352 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:06:35,362 - INFO - Data preprocessing completed successfully
+2025-02-23 07:06:35,363 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:06:35,936 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:06:35,946 - INFO - Data preprocessing completed successfully
+2025-02-23 07:06:35,947 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:09:37,395 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:09:37,404 - INFO - Data preprocessing completed successfully
+2025-02-23 07:09:37,404 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:09:52,923 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:09:52,932 - INFO - Data preprocessing completed successfully
+2025-02-23 07:09:52,933 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:09:57,342 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:09:57,350 - INFO - Data preprocessing completed successfully
+2025-02-23 07:09:57,350 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']
+2025-02-23 07:10:00,467 - INFO - Dataset loaded successfully with 500 rows
+2025-02-23 07:10:00,476 - INFO - Data preprocessing completed successfully
+2025-02-23 07:10:00,476 - INFO - Preprocessing steps: ['One-hot encoded categorical column Industry', 'One-hot encoded categorical column Sentiment']

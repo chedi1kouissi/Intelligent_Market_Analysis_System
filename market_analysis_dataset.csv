@@ -1,0 +1,501 @@
+Company Name,Industry,Location,Revenue (USD),Employees,Customer Ratings,Online Mentions,Competitor Count,Market Growth (%),Sentiment
+"King, Torres and Russell",Tech,East Kristina,2500800,67,4.0,36,2,-0.78,Positive
+"Hanna, Roberts and Warren",Tech,Port Jessicaville,1760327,302,2.2,417,6,-1.33,Neutral
+"Byrd, Travis and Smith",Healthcare,Lake Nicholas,2703076,437,2.6,218,35,7.85,Positive
+"Wilson, York and Stuart",Finance,South Edward,786286,51,1.9,225,38,12.34,Neutral
+Hayes Inc,Tech,East Jessicaport,4098584,175,3.0,484,35,4.3,Negative
+"Marshall, Jenkins and Durham",Tech,South Jesusberg,466435,319,4.4,337,29,4.74,Negative
+Gonzalez-Palmer,Finance,Port Justin,2781571,176,3.0,285,45,-2.97,Negative
+"Miller, Villarreal and Diaz",Healthcare,North Lorihaven,1236467,97,1.1,134,31,10.96,Negative
+"Alvarez, Morales and Anderson",Retail,Wilsonside,2466836,486,4.5,692,27,1.5,Negative
+"Taylor, Chang and Cannon",Retail,Moorestad,2107728,478,1.5,464,30,-4.01,Neutral
+"Perez, Jones and Williams",Tech,Lake Joel,4568103,379,4.7,876,6,-0.06,Positive
+Lopez-Tanner,Education,West Jessicafort,1166280,446,3.5,293,15,-1.49,Positive
+Rodriguez-Collins,Tech,New Barbarafurt,2191544,61,2.9,733,20,-2.72,Neutral
+"Young, Thompson and Patterson",Finance,Diazbury,4652747,311,4.1,1000,39,14.5,Neutral
+"Chen, Andrews and Brennan",Education,Melissafort,1707561,128,1.2,389,4,0.99,Neutral
+Huff and Sons,Healthcare,Markton,4790002,444,1.5,772,4,-0.97,Negative
+"King, Cox and Beasley",Tech,New Timothyton,1758525,379,2.6,20,41,3.39,Positive
+"Chapman, Moore and Curtis",Finance,Coxside,4497612,210,2.4,459,11,2.82,Positive
+Fox LLC,Tech,Port William,4446860,114,2.7,959,4,-0.35,Negative
+"Gibson, Finley and Bennett",Tech,South Royview,89797,24,2.3,871,31,4.93,Positive
+"Anderson, Williams and Smith",Healthcare,New Marissa,3054982,146,3.6,400,23,-0.43,Positive
+Cochran Ltd,Retail,Antoniotown,4818164,418,1.4,713,19,1.31,Negative
+Keller Ltd,Finance,Bridgetberg,3424214,103,2.5,949,30,10.82,Negative
+Davis-Barber,Tech,Lake Ryan,1120317,234,4.1,881,32,5.12,Positive
+"Coleman, Cabrera and Phillips",Finance,South Timothyfort,3414197,103,1.5,579,26,-2.73,Neutral
+Summers and Sons,Healthcare,Lake Cynthia,3493768,399,3.8,253,37,11.81,Neutral
+Santiago-Edwards,Retail,Port Josephbury,491979,17,1.4,911,15,14.28,Neutral
+"Gregory, Gray and Reynolds",Retail,Ramoshaven,1976052,482,1.0,477,16,-4.21,Negative
+"Peters, Lloyd and Hernandez",Tech,Baileyfurt,4657655,293,4.6,847,34,6.27,Positive
+Evans Ltd,Finance,West Ronald,3067203,27,3.0,376,24,3.31,Neutral
+"Ortega, Hebert and Cummings",Retail,Lake Bethburgh,431089,52,3.6,672,25,8.12,Negative
+"Lawson, Murphy and Hart",Education,Port Savannahton,635441,56,2.5,125,14,7.48,Neutral
+Holloway PLC,Healthcare,Duncanview,2553895,421,1.6,915,3,13.06,Neutral
+Mills LLC,Tech,Reedbury,4235618,310,3.2,426,10,8.15,Positive
+Coleman-Patrick,Tech,West Andrew,3365347,478,4.3,941,28,2.77,Negative
+Thomas and Sons,Education,New Brianton,3557813,305,5.0,258,6,14.87,Neutral
+Jenkins-Carroll,Tech,West Amandachester,3218295,13,3.3,988,12,5.71,Neutral
+Durham LLC,Retail,New Rachel,660792,404,2.4,476,19,13.05,Neutral
+Hernandez-Ramos,Education,Castroville,2050787,156,3.1,957,10,7.89,Negative
+Thomas PLC,Tech,Rochaborough,4763443,159,1.0,488,48,-3.1,Negative
+Richard-Randall,Education,Wellston,4344258,122,3.9,352,45,13.61,Negative
+Larson PLC,Finance,South Stephenhaven,3231164,373,4.4,504,39,9.32,Neutral
+"Jackson, Ward and Nielsen",Healthcare,Dodsonport,2801090,254,4.6,951,44,11.13,Neutral
+Blake LLC,Retail,Lake Veronica,3784591,271,4.1,632,47,4.51,Negative
+Lindsey LLC,Tech,West Carlos,1435110,406,1.9,284,11,11.55,Negative
+"Zamora, Stewart and Griffin",Healthcare,New Ashley,3432410,212,2.2,110,42,-2.98,Positive
+Larson-Hughes,Healthcare,Lake Andrea,4720289,301,2.3,131,16,13.2,Positive
+"Hall, Moore and Boyd",Tech,Johnstonside,4129188,400,2.2,745,36,10.92,Negative
+"Wilson, Strickland and Waters",Retail,Millerhaven,3105900,71,3.5,71,27,-2.58,Neutral
+Stephens Group,Education,Thomashaven,2841762,377,4.1,401,13,10.56,Neutral
+Clark PLC,Retail,North Christopherland,4046348,349,3.0,412,48,11.95,Neutral
+Cook-Parks,Education,Robertshire,4270182,158,1.5,358,11,9.73,Negative
+Moon LLC,Finance,South Brandon,1366133,135,3.5,989,17,11.41,Neutral
+Barker PLC,Healthcare,Nelsonberg,1099519,275,4.4,879,37,0.55,Negative
+"Watts, Underwood and Williams",Finance,Margarethaven,4490805,74,1.4,973,13,8.0,Neutral
+"Horton, Livingston and Barber",Finance,Port Linda,1199804,19,1.4,577,37,6.99,Positive
+"Smith, Chandler and Sims",Education,West Andrea,2523462,26,2.3,501,47,-0.56,Neutral
+Guerrero-Patel,Finance,Deborahtown,1186176,173,2.2,941,8,12.43,Neutral
+"Shepherd, Taylor and Miller",Healthcare,Lake Amandafurt,3187160,451,3.5,685,32,1.11,Neutral
+"Smith, Parker and Conley",Retail,Lake Stephanie,4590692,58,3.6,404,17,1.32,Neutral
+Shaffer Ltd,Tech,Harrisside,4405478,377,1.0,966,41,-3.68,Negative
+Roman and Sons,Retail,Millschester,4872020,304,3.0,213,3,4.45,Neutral
+Davis PLC,Retail,South Savannahstad,2392583,123,3.5,992,15,6.25,Negative
+"Garcia, Williamson and Phelps",Education,West Shelia,3143797,327,1.1,641,26,0.93,Positive
+"Pierce, Weber and Herrera",Tech,Dawsonborough,4080888,498,4.1,315,11,-2.01,Negative
+Walsh-Butler,Healthcare,Thomaston,2365909,138,1.6,819,7,5.19,Negative
+"Kirk, Collier and Taylor",Healthcare,Charlesshire,1120909,274,3.6,198,11,-1.28,Neutral
+Beard-Davis,Education,West Christinamouth,427425,288,1.1,65,39,-2.45,Positive
+Todd Ltd,Finance,Beckfort,1597401,286,3.3,554,24,14.93,Negative
+"Marshall, Williams and Allen",Healthcare,East Jonathan,2806439,241,2.8,530,40,-3.82,Negative
+Jackson-Singleton,Healthcare,Alvarezland,4874594,363,1.1,266,6,9.75,Positive
+Fuller LLC,Education,Lake Jeffreystad,1637202,479,1.9,701,41,13.77,Negative
+Rodriguez-Williams,Healthcare,Lorishire,1447153,21,4.0,39,20,9.08,Positive
+Young LLC,Retail,East Kevinmouth,1046994,28,4.1,338,22,10.45,Neutral
+Powell Inc,Retail,Brandonmouth,1614371,37,2.4,215,19,-1.41,Neutral
+"Davenport, Baldwin and Finley",Healthcare,West Joshua,4796939,125,2.7,416,19,9.69,Positive
+Bush-Morris,Retail,Harrisside,2619407,470,1.5,65,23,12.19,Positive
+Brown-Ali,Retail,Port Tina,2311133,10,1.2,91,27,6.43,Neutral
+Carter-Wilson,Education,Vaughnside,3601621,127,4.3,132,50,14.21,Neutral
+West-Martinez,Retail,Charlesfort,901070,254,1.5,957,36,13.45,Negative
+Bailey-Li,Finance,South Melissaburgh,742593,361,4.0,204,7,-4.91,Neutral
+Ward-West,Tech,Port Christy,198813,495,4.5,867,12,9.22,Neutral
+"Edwards, Gibson and Castillo",Finance,Jennafort,2979777,203,3.9,580,45,8.07,Neutral
+Hernandez-Brown,Healthcare,Brandonport,2782693,487,2.8,941,47,3.21,Negative
+"Harrington, Rodriguez and Meyer",Retail,Mitchellbury,2003036,456,4.2,49,25,-1.24,Positive
+Hayes Ltd,Healthcare,Smithborough,1646487,425,2.4,144,20,5.37,Neutral
+Richardson-Castro,Education,Evansborough,4259280,65,4.4,180,44,7.09,Negative
+Jones PLC,Healthcare,Harrisonmouth,2339317,225,1.8,891,17,6.09,Negative
+Shaffer-Walker,Tech,Jasontown,4797293,464,4.6,683,6,3.88,Neutral
+"Chandler, Scott and Williams",Finance,Thomasshire,2317329,28,2.7,986,19,-0.33,Negative
+"Lopez, Taylor and Johnson",Tech,Lake Kaitlynview,3513098,75,1.8,203,20,5.06,Neutral
+Perez Inc,Tech,Ruiztown,1171796,349,4.9,700,46,5.18,Neutral
+Davidson and Sons,Retail,Lake Danaberg,4180481,462,3.1,770,48,4.54,Neutral
+Rodriguez Ltd,Finance,New Richardland,4359796,25,2.8,311,11,11.53,Positive
+Berry-Powell,Finance,Port Ericafort,3804948,367,3.7,960,12,8.9,Negative
+"Ford, Hernandez and King",Finance,Nealbury,2814717,485,4.4,350,48,14.67,Negative
+Johnson-Howard,Tech,Masonville,798203,318,2.3,263,9,12.37,Positive
+Garcia and Sons,Tech,South Arthur,4557045,483,2.1,91,25,-3.35,Negative
+Mitchell Group,Healthcare,Bryanview,1489645,284,3.2,941,3,13.15,Neutral
+"Cisneros, Cantrell and Duffy",Education,Port Rebekahhaven,4843379,336,4.8,702,26,12.43,Positive
+Martinez PLC,Retail,Simpsonburgh,3815530,321,2.5,786,43,12.88,Positive
+Lowe-Washington,Retail,Sherriberg,814584,233,1.4,585,18,-2.02,Positive
+Edwards Inc,Healthcare,East Benjaminland,2218094,58,2.0,304,29,3.74,Negative
+Calderon-Barnes,Education,Port Theresa,3695002,405,2.9,477,41,4.71,Negative
+Huerta and Sons,Healthcare,Lake Jessica,672698,14,1.7,217,45,0.1,Positive
+Stokes-Gomez,Healthcare,Lake Jeffreyshire,677612,137,2.5,327,42,11.65,Neutral
+Lynn Ltd,Healthcare,South Howard,3596764,377,2.3,673,48,-0.47,Positive
+"Vaughn, Fowler and Ward",Finance,Jenniferchester,2678254,83,3.4,121,24,-3.46,Positive
+"Frye, Miller and Barton",Tech,West Jessicafurt,2923407,317,2.8,449,46,11.41,Neutral
+"Powell, Soto and Anderson",Tech,Williamsberg,2276787,178,4.9,674,6,13.76,Negative
+Jones Group,Retail,West Donna,1646635,311,2.7,92,5,3.42,Positive
+Bentley Ltd,Retail,Longville,127521,90,3.0,247,23,-0.79,Negative
+"Jimenez, Jackson and Poole",Education,Davidhaven,4461615,67,4.5,41,16,0.81,Negative
+Graves LLC,Retail,West Rebecca,4385982,307,2.3,290,1,9.16,Positive
+Moss LLC,Finance,New Joseph,3603724,181,2.5,511,11,3.85,Positive
+Cooper LLC,Retail,Rachaelfort,4660925,433,1.3,586,46,12.44,Positive
+Davis-Mccarty,Healthcare,Rebeccaberg,1013902,196,3.0,70,37,5.62,Negative
+"Ross, Day and Pugh",Tech,Lake Debbie,4519308,192,2.3,211,28,5.74,Neutral
+Murphy-Stephens,Education,New Robertchester,2369332,76,2.6,549,45,14.04,Neutral
+Davis-Parker,Healthcare,South Juliatown,1520541,81,4.1,751,1,0.18,Positive
+Lopez-Jones,Education,East Christophertown,4982102,190,3.2,220,27,13.05,Negative
+Skinner Group,Tech,South Jillianfort,3990089,284,1.0,456,20,2.05,Neutral
+Hood-Berry,Tech,Crystalshire,3560734,337,4.7,262,28,13.84,Negative
+Williams Group,Finance,Bentleymouth,705381,336,2.2,782,28,6.93,Neutral
+Turner Inc,Education,Gilbertton,3303227,275,2.2,575,20,-3.42,Positive
+Malone Inc,Education,Mariaview,552064,143,4.5,711,21,6.72,Neutral
+Cook Ltd,Tech,Leetown,3564118,40,3.7,118,7,1.21,Positive
+Brown-Nelson,Finance,Lake John,631221,340,4.4,889,13,2.24,Negative
+"Ortega, Morris and Garcia",Finance,North Tiffany,680059,278,2.7,558,33,2.2,Neutral
+Martinez-Andrade,Tech,Williamsland,4337054,131,3.7,84,8,3.6,Positive
+"Yates, Contreras and Vasquez",Healthcare,Michelleburgh,2743582,151,3.6,699,41,2.45,Neutral
+Moore and Sons,Education,Bennettville,1126706,478,2.7,612,5,-1.61,Negative
+Kennedy-Booth,Retail,Whiteberg,4776265,219,2.5,14,31,9.92,Neutral
+Davis PLC,Retail,North Jasmine,3954760,320,4.2,743,47,12.46,Neutral
+Mayer Inc,Education,Lake Shannonside,224906,399,4.8,496,45,2.08,Negative
+Sims-Ferguson,Healthcare,South Vanessaland,1879176,445,1.8,46,32,14.57,Neutral
+"Wilson, Jacobs and Everett",Retail,Schultzmouth,1933769,174,1.4,222,22,10.41,Neutral
+Robinson and Sons,Education,Lake Brett,1103987,264,2.7,508,30,5.11,Neutral
+Woodard and Sons,Education,Aguilarburgh,174289,158,3.5,220,13,13.83,Positive
+Wise Inc,Finance,West Walter,4618285,480,3.7,599,39,8.99,Positive
+Cole-Smith,Tech,East Eric,3445132,454,1.1,305,10,-4.43,Positive
+Brown and Sons,Healthcare,South Jamieland,303917,484,3.6,873,48,-1.16,Neutral
+Miller Ltd,Education,Pattontown,771920,136,1.7,69,21,13.21,Positive
+Wade Inc,Retail,Gloverberg,4117594,209,1.6,219,26,-1.58,Positive
+Heath-Duffy,Tech,East Danielle,4793930,486,3.0,897,22,6.93,Neutral
+Johnson Inc,Tech,Tammyfort,473211,461,4.4,836,17,-4.16,Negative
+"King, Alexander and Ruiz",Healthcare,New Ericstad,2534720,312,3.5,221,13,8.79,Positive
+"Hernandez, Huff and Jones",Tech,South Juanhaven,105762,174,2.2,387,48,2.06,Positive
+Phillips Ltd,Retail,Gregoryhaven,1111825,311,1.8,538,35,3.13,Neutral
+Larsen-Lawson,Education,Kanetown,3372091,304,2.2,415,2,-3.9,Negative
+Stevens-Mayer,Healthcare,East Brandonville,4599371,209,1.8,912,37,6.26,Positive
+Moreno LLC,Healthcare,Brownborough,3652670,166,4.7,949,11,2.6,Positive
+Craig-Ross,Healthcare,South Nathan,3392547,221,4.3,927,41,-1.43,Positive
+Owen-Terry,Finance,South Joshuashire,1216891,238,2.0,901,5,6.83,Neutral
+Williamson Group,Retail,South Amanda,4967955,201,1.8,186,18,-0.83,Positive
+Johnson Ltd,Finance,Danielshire,259090,232,3.9,568,34,2.49,Negative
+Gomez PLC,Retail,Josephbury,1285143,367,4.7,111,34,0.96,Negative
+"Hansen, Smith and Fleming",Healthcare,Port Tina,3177920,388,1.1,915,15,1.98,Negative
+Torres-Hicks,Tech,East Andrewtown,3031111,459,2.9,740,30,8.47,Positive
+Stewart and Sons,Finance,Mirandaton,1899390,236,4.0,675,15,9.7,Negative
+Beltran Group,Education,Williamstown,3732525,15,4.4,422,37,-4.34,Negative
+Moran-Booth,Retail,Woodsland,2852673,252,1.8,448,14,-4.53,Neutral
+Taylor and Sons,Healthcare,Jonestown,4285125,105,4.6,292,48,5.36,Neutral
+Moses-Crane,Education,Port Davidport,2432907,425,1.1,595,16,3.07,Negative
+Shea LLC,Retail,Meganmouth,2874042,61,1.8,199,35,-4.31,Neutral
+West LLC,Retail,South Charlesland,2260187,118,2.0,540,38,6.33,Neutral
+Wood Group,Finance,Butlerbury,4182835,460,2.4,79,46,6.94,Negative
+"Cook, Powell and Fritz",Retail,Kemphaven,2660017,269,1.6,403,27,14.93,Negative
+Ortiz LLC,Tech,Robinhaven,1794891,456,1.0,82,39,8.94,Neutral
+Johnson-Simpson,Healthcare,Lake Crystal,1009961,188,4.5,801,3,11.51,Negative
+"Davila, Harrison and Chavez",Tech,Melissashire,4246823,415,4.9,807,2,10.04,Negative
+"Massey, Lopez and Johnson",Retail,Campbellfort,1281934,72,3.7,345,49,6.29,Negative
+Mendoza-Cox,Retail,Michelleland,4367869,468,3.3,171,12,1.7,Positive
+"Johnson, Roberts and Cooper",Finance,Michelleport,92780,475,3.7,596,25,6.05,Negative
+Wilson Ltd,Finance,West Samanthachester,1540003,132,3.9,951,29,-4.46,Neutral
+Clay-Hester,Retail,Perezshire,4758227,494,4.9,605,21,6.87,Positive
+"Young, Baker and Nash",Retail,Port Jordan,372490,53,2.9,706,17,8.98,Negative
+Morgan-Lynch,Education,Elizabethbury,4445505,173,1.6,955,44,-3.21,Negative
+Williamson Ltd,Finance,Dianebury,904907,397,4.9,121,39,4.28,Negative
+Perez PLC,Healthcare,Hayneston,60884,136,2.9,359,39,2.58,Positive
+Williams Inc,Healthcare,West Karenbury,2015104,327,2.3,994,12,6.62,Positive
+Wallace-Smith,Healthcare,South Aaron,282491,437,3.3,419,12,3.37,Negative
+Hancock LLC,Healthcare,Benitezborough,3564630,88,1.0,255,43,-2.47,Negative
+"Cox, Wells and Young",Finance,Jennastad,4427741,433,2.1,652,47,1.79,Positive
+Barker and Sons,Retail,New Darinmouth,3004414,489,4.2,820,21,-0.57,Negative
+Anderson and Sons,Finance,Christineport,3030667,467,2.3,420,6,6.21,Positive
+Anderson-Torres,Tech,Michaelshire,2970150,188,4.2,442,44,8.72,Neutral
+Walker-Brock,Finance,Marytown,2757920,476,4.9,899,46,7.59,Positive
+Wright LLC,Retail,Kristinehaven,3837773,196,4.1,378,40,11.4,Neutral
+"Hendricks, Johnson and Robles",Education,East Andrew,2620958,302,1.3,467,7,2.79,Negative
+Molina-Robinson,Healthcare,South Tamara,1016780,313,3.9,613,32,13.55,Positive
+Simmons-Sanders,Education,Gibsonchester,192090,457,2.7,589,34,1.33,Negative
+Palmer LLC,Retail,Lake Wanda,985686,427,4.9,875,22,-2.75,Neutral
+Meyer-Wiley,Education,North Sharon,4400261,106,2.3,988,47,-3.19,Negative
+"Salazar, Dudley and Thompson",Healthcare,Moodyhaven,594464,388,3.3,825,47,7.88,Positive
+Schmitt LLC,Finance,East Samantha,3202261,170,4.1,670,6,-3.52,Neutral
+"Cummings, Davis and Montgomery",Retail,Arnoldton,2384134,391,4.4,982,6,-1.67,Positive
+Ruiz-Green,Retail,Port Linda,3629913,247,3.5,92,32,8.87,Positive
+"Smith, Santana and Raymond",Tech,Murphytown,2187066,189,3.5,466,46,0.12,Positive
+Jenkins Inc,Healthcare,Port Scott,4531652,231,3.4,835,29,5.41,Neutral
+Patel Ltd,Retail,Whitechester,4389291,108,3.1,67,1,12.86,Neutral
+Garcia-Reyes,Tech,Lake Rachael,2032661,185,3.6,637,21,5.73,Negative
+Steele Group,Education,Bruceside,3625557,29,2.0,977,31,8.3,Negative
+"Leonard, Anderson and Davidson",Education,Lake Theresa,217637,492,1.6,931,12,5.14,Positive
+Bell and Sons,Retail,New Cody,2130768,259,3.3,191,38,9.57,Negative
+"Gates, White and Martinez",Healthcare,New Michael,923389,242,3.0,567,30,9.85,Positive
+"Barton, Roach and Lawrence",Retail,South Steven,3965904,306,4.3,296,15,3.17,Neutral
+"Bailey, Estrada and Walker",Retail,New Marybury,1678333,414,4.6,456,50,10.14,Positive
+Reyes-Cooper,Retail,New Larryshire,1782923,483,3.1,674,7,6.25,Positive
+Nichols-Gutierrez,Tech,North Matthew,1897485,188,4.3,649,29,0.21,Negative
+"Martin, Campos and Waller",Finance,Fletcherberg,4086269,411,2.6,447,7,1.41,Neutral
+"Gibson, Peterson and Nunez",Finance,New Cynthiaview,3952739,247,4.7,294,14,10.4,Neutral
+Thornton PLC,Education,Robertmouth,4935533,58,4.8,873,13,13.55,Neutral
+Hines and Sons,Healthcare,Thomasview,1472610,71,1.8,31,17,6.94,Neutral
+"Berry, Quinn and Baker",Education,New Kevin,4197721,286,3.9,189,19,10.24,Neutral
+Ellis Inc,Finance,Robertmouth,1553393,348,1.1,624,2,7.4,Neutral
+Hayden-Reynolds,Education,Reedland,886225,303,4.6,476,21,1.06,Negative
+"Lewis, Clark and Cooper",Retail,West Michelle,4741465,406,2.2,425,50,10.28,Neutral
+Mathews PLC,Healthcare,Benjaminville,3515953,411,1.1,922,34,11.73,Negative
+Maldonado-Walker,Healthcare,Burnettland,138963,152,1.7,890,31,-4.71,Negative
+Mendez-Johnson,Finance,Thomastown,60508,269,4.1,955,25,-0.38,Positive
+"Flynn, Hogan and Gomez",Education,Kathleenton,882145,315,3.4,582,2,6.51,Negative
+"Smith, Smith and Peters",Finance,Jamiehaven,1559515,107,3.6,322,34,12.26,Neutral
+Ochoa and Sons,Healthcare,Lambertton,3951608,191,1.1,740,31,-1.12,Positive
+"Jones, Duncan and Watkins",Retail,New Justin,388122,243,4.7,934,6,-2.08,Neutral
+Love-Davidson,Healthcare,East Kristina,1166701,57,1.3,90,48,0.76,Negative
+Lee Inc,Education,East Michaelfurt,4924775,127,4.1,892,50,10.15,Negative
+"Wood, Kennedy and Hudson",Retail,South Matthewville,4985709,210,2.7,154,47,4.38,Neutral
+Gould LLC,Education,Dawnberg,2741638,312,1.7,875,6,10.24,Neutral
+George-Bradshaw,Finance,Hallchester,4590046,354,1.0,771,24,13.61,Negative
+Gordon-Shepherd,Finance,Kennedyside,1255393,428,3.7,326,45,7.76,Positive
+"Thomas, Wu and Johnson",Tech,Wilsonland,1764152,376,3.9,352,9,13.86,Positive
+Lyons-Luna,Finance,Christopherport,2885774,254,3.5,117,14,0.17,Positive
+Bradley Inc,Tech,Dawsonside,4088804,396,4.4,322,34,11.41,Positive
+Contreras Inc,Tech,East Calvin,2298832,345,3.6,618,37,14.47,Negative
+"Castro, Patel and Miller",Finance,North David,1561824,53,2.9,944,39,-4.8,Negative
+"Burton, Garrison and Lewis",Finance,East Ralphville,4636827,368,4.4,315,6,1.05,Positive
+Lopez Inc,Tech,Josephshire,4377929,424,1.9,469,7,-2.52,Neutral
+Young and Sons,Education,South Lisashire,86437,302,5.0,280,1,9.4,Negative
+Jordan Ltd,Finance,Daniellehaven,1038814,91,2.7,474,49,0.09,Positive
+"Reyes, Smith and Hernandez",Finance,Bradleychester,2134708,133,4.2,167,15,-2.01,Neutral
+Garcia Ltd,Healthcare,East John,3291658,408,4.0,583,36,12.16,Positive
+"Montoya, Brown and Woods",Healthcare,Lukeberg,3400365,365,1.6,476,33,0.44,Positive
+Ward PLC,Tech,Sparksmouth,385571,431,3.7,573,3,13.04,Positive
+Jenkins-Carroll,Healthcare,Daltonport,4177417,366,1.5,722,48,2.51,Positive
+"Nixon, Burns and Bradley",Education,New Teresa,4848301,350,2.3,767,35,-1.34,Neutral
+Cannon-Mitchell,Finance,Michaelmouth,128740,202,2.0,950,11,10.55,Neutral
+Ramos-Anderson,Education,West Christophermouth,3450550,212,3.4,131,39,12.54,Positive
+Williams Inc,Tech,Combsfort,3991125,194,3.8,662,35,0.5,Positive
+"Williams, Tucker and Mckay",Finance,Jennaburgh,4335729,433,4.0,764,32,2.19,Neutral
+Wong-Contreras,Education,Catherineside,277043,92,1.6,229,35,5.09,Negative
+Meyers PLC,Healthcare,Irwintown,1658993,414,1.2,187,28,8.11,Neutral
+Griffin-Haynes,Finance,West Joseph,2447499,322,4.0,100,10,0.56,Negative
+Joyce PLC,Healthcare,Paulafort,106768,483,3.4,225,7,-3.21,Negative
+Mckinney-Lyons,Tech,Adkinsfort,507725,357,1.9,750,40,10.04,Negative
+Wheeler Ltd,Retail,Erikchester,1775423,475,4.6,937,48,5.82,Negative
+Pacheco PLC,Education,South Amanda,4645561,109,1.8,868,8,0.8,Positive
+"Townsend, Hicks and Silva",Tech,West Julie,3913718,373,4.9,626,8,3.6,Positive
+"Griffin, Henderson and Torres",Finance,North Lindachester,747632,105,4.6,662,44,-3.72,Positive
+"Flynn, Brown and Watkins",Education,Dixonstad,4749186,415,3.8,799,38,-3.84,Neutral
+Nguyen Ltd,Finance,East Joseview,2890688,439,3.1,526,14,2.11,Neutral
+Miller-Welch,Tech,West Daniellehaven,3820966,94,3.7,396,38,14.13,Negative
+Decker-Williamson,Tech,Port Anamouth,1346018,448,4.1,941,37,8.32,Negative
+"Harris, Griffin and Parrish",Retail,North Heathermouth,3884322,185,2.6,231,25,-0.56,Neutral
+Roy Ltd,Tech,South Sarah,1839771,403,2.3,15,31,5.12,Negative
+"Wood, Johnston and Schmitt",Retail,Brittanyborough,3926998,224,1.7,695,19,0.31,Neutral
+Pratt-White,Tech,Davisview,2421392,69,4.7,858,19,8.39,Positive
+"Johnson, Rivers and Beck",Retail,North Austin,976534,302,1.3,795,21,-3.38,Negative
+"Mejia, Bryant and Moore",Finance,Lake Benjamin,3685204,497,1.0,688,3,8.5,Neutral
+Watson Ltd,Healthcare,Johnhaven,2045170,499,3.7,244,26,-3.72,Negative
+Glenn-Wells,Retail,Port Kimport,212411,375,2.6,447,29,-0.18,Negative
+Wells-Chambers,Tech,Franceshaven,1989207,133,1.5,33,27,2.0,Positive
+Carter-Jones,Retail,North Albert,1039367,379,2.4,540,8,7.12,Positive
+"Castro, Stevens and King",Healthcare,West Jennifer,2428373,256,3.6,536,5,13.81,Negative
+White and Sons,Tech,East Sethbury,2893301,43,2.4,863,11,13.06,Negative
+Castillo Inc,Education,New Rebecca,2577851,300,2.7,21,21,4.52,Negative
+"Buckley, Walker and Parker",Tech,New Sarah,681619,107,1.1,531,14,0.05,Negative
+Garrett-Martinez,Tech,South Shawnbury,4231064,206,4.1,481,25,8.71,Positive
+"Leonard, Norris and Carey",Retail,Karenfort,4455486,392,4.4,213,8,13.38,Negative
+"Roberts, Myers and Nixon",Healthcare,Holdenfurt,3240166,138,4.1,800,6,12.44,Neutral
+Young-Miller,Retail,Cheryltown,3746657,266,3.3,427,38,-2.64,Negative
+"Johnson, Nelson and Wilson",Tech,Markfurt,4187924,41,1.0,487,39,8.85,Positive
+"Walters, Hayes and Gonzalez",Tech,South Brandonstad,2198537,423,2.6,245,47,-2.72,Negative
+Anderson-Moore,Retail,Trevorbury,2398798,126,2.3,270,40,10.57,Positive
+"Roberts, Strickland and Hood",Retail,Lake Robinhaven,1780459,266,3.2,29,21,3.96,Negative
+Smith-Morgan,Tech,North Royburgh,104802,432,2.9,74,25,5.75,Negative
+Smith-Jones,Education,Paigeton,1346600,284,2.1,666,42,2.63,Positive
+"Turner, Smith and Jenkins",Tech,West Elizabeth,4104437,103,2.8,257,19,1.42,Positive
+Malone Inc,Healthcare,North John,1733179,248,4.7,709,19,-2.76,Neutral
+Bell-Peterson,Healthcare,South Blake,4908677,310,2.1,714,3,13.79,Neutral
+Lee-Quinn,Tech,Smithchester,4853970,259,2.3,406,42,0.66,Neutral
+"Frank, Walker and Juarez",Retail,East Nicholas,1399507,28,2.4,115,17,1.1,Positive
+Garcia-Flores,Education,East Matthew,1434012,404,1.2,673,20,-1.63,Positive
+Williams-Dennis,Finance,Ambertown,4511762,458,2.3,402,45,12.61,Positive
+Romero-Wright,Education,South Angelashire,547242,318,1.4,355,7,14.08,Negative
+Stark LLC,Healthcare,Nicholasville,2915125,228,2.5,245,7,13.16,Neutral
+Lopez-Zhang,Retail,South Anthonybury,2673616,47,4.8,981,26,7.91,Positive
+Randall-Williams,Tech,Cindyshire,54289,96,1.8,248,15,10.23,Positive
+Carter-Rivera,Retail,Port Matthewside,1560195,299,4.0,740,23,6.68,Positive
+Lee-Lee,Healthcare,Lake Cindy,1683715,421,2.1,892,27,-1.75,Neutral
+Mejia-Stark,Retail,Henryton,179387,413,4.1,489,26,-4.8,Negative
+Williams-Weber,Tech,Vargasfurt,370229,71,2.5,991,2,6.36,Neutral
+Rowe-Norris,Healthcare,South Christinaside,4759179,367,3.6,172,15,0.63,Negative
+Roth-Ward,Tech,Alyssaland,1354353,394,3.1,185,17,1.68,Neutral
+Smith-Parrish,Finance,North Elizabethville,1223742,487,1.5,528,36,2.83,Neutral
+Hernandez PLC,Retail,Russellhaven,4819355,19,3.9,307,23,8.28,Neutral
+"Taylor, Stevenson and Parker",Retail,New Samuel,974867,309,3.0,393,47,-0.02,Positive
+"Hansen, Bridges and Mason",Healthcare,Brucechester,1383192,112,3.6,912,10,-4.04,Neutral
+Burgess-Moore,Retail,South Daleshire,1876823,163,2.6,32,46,10.52,Positive
+"Nelson, Thomas and Greene",Education,Christopherhaven,4904746,19,1.0,721,46,14.18,Neutral
+Kelly-Zhang,Finance,Tyroneport,2725367,56,4.0,947,41,-2.2,Negative
+Maynard-Yates,Retail,East Wyattside,4928878,456,4.1,694,45,12.76,Neutral
+"Young, Kelly and Price",Education,Elliottbury,3693691,215,4.0,768,39,6.38,Positive
+"Livingston, Frey and Cooley",Retail,East Timothyville,4673412,466,1.8,192,12,7.34,Neutral
+Alexander Ltd,Tech,East Jennifer,4962881,92,3.4,551,10,2.45,Neutral
+Miller-Hicks,Education,Murphymouth,2259915,10,3.5,529,8,2.72,Positive
+Ortega PLC,Retail,Wendyside,3609660,317,3.3,350,10,-1.26,Neutral
+Hill Ltd,Finance,Laurentown,3990876,57,4.4,903,49,-0.85,Neutral
+"Anderson, Montes and Pierce",Finance,Watersview,4334149,83,3.1,55,39,5.32,Neutral
+"Mason, Carr and Hood",Finance,New Alexanderburgh,3237290,31,3.9,474,22,11.61,Neutral
+Hanna PLC,Healthcare,West Kathy,2810504,369,2.5,640,8,1.4,Negative
+Proctor LLC,Healthcare,Ayalahaven,1699930,421,4.2,479,19,13.67,Neutral
+Shannon Group,Education,New Cassandraville,1307940,266,1.2,406,43,6.45,Negative
+Greene-Williams,Healthcare,South Michaelview,260095,396,1.2,981,19,12.15,Positive
+Johnston PLC,Retail,North Michaelfurt,3568325,136,2.7,329,18,5.55,Neutral
+"Burke, Fields and Joseph",Healthcare,Williamsstad,617288,222,1.4,764,23,12.81,Neutral
+Ortiz and Sons,Healthcare,New Danielview,1653096,473,1.5,658,34,7.16,Positive
+"Valentine, Harding and Robinson",Healthcare,Port Jose,935877,194,4.3,815,6,7.5,Negative
+Soto-Herrera,Retail,Garciamouth,247100,434,3.6,951,44,9.53,Neutral
+"Hartman, White and Huang",Healthcare,Reneeside,1429463,406,2.2,334,40,9.86,Negative
+Bright-Olsen,Tech,Jenningsbury,854190,346,3.7,658,29,5.04,Positive
+Burnett-Ross,Finance,East Laurafurt,3319240,405,1.2,888,12,4.78,Neutral
+"Williams, Richardson and Frederick",Finance,West Tanya,2391619,271,4.0,911,21,-3.27,Neutral
+Phillips-Chapman,Healthcare,Allenbury,178559,100,1.3,863,48,4.73,Negative
+Blevins-Huerta,Retail,Shirleychester,1311887,228,2.3,845,6,-3.16,Negative
+Jones Inc,Finance,Pughborough,2687738,238,1.2,684,31,-2.38,Negative
+"Martinez, Meyer and Rodriguez",Healthcare,New Kyleview,2016279,256,2.9,950,42,0.03,Positive
+Delgado LLC,Finance,Robertville,4730100,460,4.7,889,12,-2.32,Negative
+Hogan Inc,Finance,New Patricia,3350231,203,3.4,953,30,7.38,Negative
+"Taylor, Potter and Taylor",Finance,Heidimouth,2565805,284,3.6,144,26,0.48,Neutral
+Rose LLC,Finance,Jordanhaven,4676517,81,3.0,582,12,1.35,Negative
+Stuart and Sons,Healthcare,Port Kristina,543769,293,1.8,985,21,5.38,Neutral
+"Oneill, Villegas and Maldonado",Tech,Matthewborough,4876419,374,2.1,851,21,-4.98,Negative
+Ware Group,Tech,Lake Meganfort,463802,387,2.7,975,21,10.83,Neutral
+"Richardson, Ramirez and Edwards",Education,Oliviamouth,3812968,479,4.2,989,29,3.29,Neutral
+Ballard-Jackson,Healthcare,New Mark,818846,215,1.1,21,28,-1.17,Neutral
+Reed PLC,Tech,East Christown,4291771,225,4.0,818,34,10.8,Positive
+"Wang, Ford and Young",Healthcare,East Nathan,3266215,150,1.6,297,20,0.15,Negative
+"Wong, Jimenez and Beasley",Retail,Camposbury,3457361,296,2.7,301,1,6.32,Positive
+Hall Inc,Education,West Samuel,4139718,57,3.8,101,18,-0.92,Neutral
+Brown-Rice,Healthcare,East Brittanyfort,1263187,431,4.2,531,46,6.7,Neutral
+Moore-Murphy,Education,Rodriguezberg,4644147,93,3.1,368,41,14.28,Negative
+Simpson PLC,Tech,Port William,605837,279,3.2,342,1,4.02,Negative
+Buckley and Sons,Healthcare,Henryton,4937469,435,4.7,677,25,9.71,Positive
+"Harvey, Dean and Knight",Education,East Anthonyfurt,1437393,394,2.3,990,20,3.48,Neutral
+"Marshall, Schneider and Clark",Finance,North Audrey,840453,292,4.1,404,2,9.77,Neutral
+Jackson and Sons,Healthcare,New Danielfort,1605373,158,3.5,907,46,12.92,Positive
+Martinez-Wilson,Education,Lake Barbaraside,2900386,452,1.9,601,2,5.11,Neutral
+"Hunter, Hampton and Rodriguez",Education,New Christopherport,2394351,184,3.1,88,25,1.9,Negative
+Romero Ltd,Education,Port Jonathan,4585976,474,1.3,336,41,-2.66,Positive
+"Campbell, Parrish and Ball",Retail,Shawnside,4857451,187,1.1,416,47,11.7,Negative
+Williams LLC,Retail,New Katelyn,4991505,108,2.8,16,42,-0.67,Neutral
+Mccoy Ltd,Finance,Brittanyview,4287277,91,1.4,683,40,1.51,Neutral
+Smith Inc,Healthcare,Mendozachester,3358340,413,4.8,73,21,5.72,Negative
+Campbell Ltd,Finance,Port Sharonton,958963,236,3.9,469,10,10.77,Positive
+"Carter, Morales and Mills",Education,Port Christopher,705652,278,3.6,387,42,5.28,Neutral
+Lopez and Sons,Healthcare,Bergchester,1337502,237,3.0,598,33,3.73,Positive
+Lopez-Montgomery,Retail,Port Amanda,4708301,255,1.9,195,22,9.36,Positive
+Miller-Kent,Healthcare,Christianbury,1663286,263,1.6,511,32,-0.2,Neutral
+"Schwartz, Flores and Fernandez",Education,Walkerfurt,194685,373,1.0,261,17,13.27,Negative
+Collins-Watson,Finance,Port Kevinburgh,4911527,407,3.1,892,33,13.07,Positive
+"Williams, Smith and Barrett",Healthcare,Danielchester,4177840,369,2.8,484,1,6.53,Negative
+Lynch-Norton,Healthcare,New Beverly,395292,184,3.9,612,47,4.3,Negative
+Gilmore-Smith,Education,Brownshire,4911925,88,2.5,441,20,8.77,Neutral
+Stewart-Olson,Retail,Lawsonhaven,4015350,230,2.2,50,39,-2.83,Positive
+"Hall, Santos and Brown",Healthcare,Richardsland,4771886,126,3.9,68,28,2.11,Positive
+Mann-Moore,Healthcare,East Brookestad,3535071,188,4.2,232,37,-2.13,Negative
+"Robinson, Harris and Lopez",Retail,Port Meghanmouth,1590192,324,4.3,711,44,9.51,Neutral
+Williams-Mcgee,Healthcare,South Blake,4565237,366,4.2,537,16,6.72,Negative
+Brown-Peterson,Healthcare,Davisport,2847428,232,2.6,870,43,-3.26,Neutral
+George-Anderson,Retail,East Sherry,2397621,199,4.8,763,45,-2.29,Neutral
+Robertson-Edwards,Finance,Port Alexisport,3458306,359,2.2,808,38,8.62,Positive
+Miller and Sons,Tech,Edwardshaven,511852,82,2.7,190,37,-2.31,Neutral
+"Jordan, Preston and Hensley",Retail,Lake Angelabury,245602,293,1.6,671,34,13.43,Negative
+Kim-Vargas,Tech,North Tina,3797562,146,3.6,185,23,-1.27,Negative
+Ortiz Ltd,Tech,Johnshire,3598093,439,1.9,837,40,8.48,Positive
+Zavala-Johnson,Finance,West William,3461444,56,1.9,855,50,3.44,Negative
+"Martin, Trevino and Atkins",Education,Chelseyfurt,2646211,149,2.0,389,44,7.78,Neutral
+"Hart, Wolf and Williams",Tech,New Markview,4219405,456,2.0,361,5,10.86,Positive
+Campos Ltd,Healthcare,Andrewside,1369620,270,2.2,356,50,11.55,Negative
+Oliver-Graves,Finance,West Daniel,1750857,373,3.5,281,30,11.0,Positive
+"Gross, Patel and Barker",Retail,South Jamestown,4471756,36,1.8,262,29,13.94,Negative
+Grant-Bradley,Healthcare,New Joel,4352778,101,3.7,485,33,8.58,Neutral
+"Ramirez, Glover and Aguirre",Education,Jesuschester,2921456,296,1.3,866,19,2.13,Positive
+Johnson-Wilkerson,Finance,West Julia,316157,247,2.3,782,39,-1.87,Positive
+York-Choi,Retail,New Justin,916498,366,2.8,965,9,-3.01,Neutral
+White Ltd,Healthcare,Deleonton,3083933,262,1.6,817,7,-4.56,Positive
+Reed-Blackburn,Tech,Christinaton,70361,459,4.3,705,23,2.0,Positive
+Phillips Ltd,Retail,Teresaburgh,4706608,269,3.0,367,39,2.31,Neutral
+Key Inc,Education,New Christina,3746716,50,2.6,237,4,8.94,Negative
+Medina-Reed,Tech,Whiteheadhaven,1755271,315,1.7,307,28,0.78,Neutral
+Anderson Inc,Tech,Birdside,1533978,450,4.2,668,21,-0.93,Positive
+Guzman-Vargas,Finance,Port Johnfurt,2419772,137,1.0,644,17,9.55,Negative
+Garcia Ltd,Tech,East Josephmouth,4087199,149,1.3,353,36,-1.59,Neutral
+"Johnson, Wolf and Pineda",Tech,Jennychester,2224832,411,4.0,835,25,-3.83,Neutral
+Shepherd-Sims,Tech,Shannonberg,3256168,288,4.2,603,36,9.57,Positive
+Henry Inc,Healthcare,North Lauren,3554281,329,1.1,74,10,6.96,Negative
+Garrett-Simpson,Healthcare,East Wendyburgh,2201010,182,1.9,629,45,0.08,Positive
+"Wilson, Schaefer and Flores",Healthcare,Joshuastad,446382,449,4.7,101,28,9.0,Neutral
+Porter-Alexander,Retail,New Patrickmouth,958848,109,1.3,845,2,-1.65,Positive
+"Mason, Shannon and Nelson",Finance,Kennethshire,2637906,445,3.3,164,46,-2.66,Neutral
+Miller-Pruitt,Tech,Angelaton,1776277,192,1.9,715,47,13.64,Negative
+Martin Group,Retail,East Raymondberg,3244585,114,3.0,339,39,6.96,Negative
+Osborne-Gonzales,Education,Christopherville,1673503,248,3.1,483,16,14.16,Neutral
+"Barnes, Williams and Perez",Education,New Justin,228016,83,2.8,301,32,13.26,Negative
+Ruiz LLC,Retail,Wongside,1156688,355,2.7,247,6,-0.33,Positive
+Harris Group,Finance,East Susan,3314447,95,5.0,503,31,1.08,Negative
+Wilson Inc,Finance,North Joseside,3903805,103,2.9,584,16,-0.49,Negative
+Harrison-Blanchard,Retail,Andersonfort,4728537,163,2.5,662,1,8.82,Neutral
+Campbell Inc,Retail,South Mandymouth,1911432,349,1.1,899,27,5.94,Neutral
+"Mueller, Jones and Bender",Education,Lake Karen,821922,411,4.1,928,39,6.55,Neutral
+Pierce-Davis,Finance,West Andrewberg,622058,35,3.3,759,6,4.18,Positive
+Graves-Hernandez,Healthcare,Barneston,4230049,130,3.6,166,18,-2.3,Neutral
+"Perez, Greene and Hoover",Tech,Sharonborough,3721050,221,1.2,822,12,-3.98,Neutral
+Mcclain-Coleman,Finance,West Donport,363012,154,2.2,850,13,10.94,Positive
+"Shaw, Lopez and Dillon",Education,West Wendy,739414,257,1.7,170,4,-0.58,Negative
+Ray PLC,Retail,Haydenshire,1270971,264,4.7,453,9,10.26,Neutral
+"Morton, Miller and Sanders",Education,Briannaborough,3289227,213,1.2,483,14,-0.73,Positive
+Valenzuela-King,Retail,Johnsonbury,112765,492,1.5,83,29,-1.82,Neutral
+Young Inc,Education,Williamton,2902655,391,1.8,125,27,7.17,Negative
+Higgins LLC,Tech,Dawsonberg,4236684,159,4.2,812,28,-0.63,Negative
+"Yang, Bryant and Williams",Finance,Phillipsview,1426385,144,3.4,865,23,-0.9,Neutral
+Alexander-Allen,Education,Toddville,2538441,76,2.4,944,1,12.82,Neutral
+Yu PLC,Retail,Shannonbury,1813226,468,4.4,702,41,10.15,Negative
+Roberts-Brooks,Tech,West Joseph,1363668,13,2.8,111,30,3.3,Negative
+"Martin, Wall and Olson",Tech,New Johnfurt,3413552,456,4.0,619,5,14.59,Neutral
+Flores-Sanders,Finance,North Christopherland,3016499,393,3.8,373,5,7.88,Positive
+Hughes-Robinson,Finance,South Matthew,717169,89,3.2,936,12,5.53,Negative
+"Espinoza, Mcconnell and Huff",Healthcare,Lake Robertside,2449929,444,2.4,940,24,-0.45,Neutral
+Rogers and Sons,Healthcare,West Tiffanystad,948615,237,4.8,183,23,-4.03,Positive
+"Stout, Pitts and Jones",Education,Port Angelhaven,3793443,50,3.0,852,20,-1.12,Negative
+"Jones, Moore and Vance",Tech,Rodriguezbury,687872,285,3.3,359,24,-3.01,Negative
+"Dalton, Fernandez and Martin",Finance,Rachaelview,3301791,465,4.6,526,25,-2.31,Negative
+Green-Glass,Education,North Adam,1800619,189,3.0,358,9,10.28,Negative
+"Hogan, Maldonado and Rodgers",Tech,Georgeside,1023418,198,4.1,321,39,-1.68,Negative
+Chavez-Johnson,Tech,North Abigailland,3289270,137,4.0,724,5,14.54,Neutral
+Cox-Johns,Tech,Port John,3708920,426,2.3,849,28,5.29,Negative
+Kelley-Camacho,Finance,Brookeview,117967,274,1.9,676,28,14.07,Positive
+"Howard, Clark and Werner",Healthcare,Marquezshire,3360970,474,1.9,219,39,9.31,Positive
+Smith-Conrad,Retail,Johnsonport,4094541,289,4.0,462,20,0.62,Positive
+Hall-Melendez,Finance,Walterhaven,3379555,181,4.2,43,27,-0.34,Negative
+Jones-Dixon,Education,Ryanfurt,437570,97,4.9,780,18,6.16,Neutral
+"Marshall, Rush and Garza",Healthcare,East Nicolemouth,1586241,241,1.3,134,1,10.52,Negative
+Curtis Inc,Finance,Andersonside,3471976,455,4.8,380,2,-4.65,Positive
+"Lane, Alexander and Brown",Healthcare,Nelsonborough,1226095,332,3.3,837,49,2.95,Negative
+"Small, Rose and Love",Tech,Lake Benjamin,1325908,420,2.5,290,27,7.2,Positive
+Jones LLC,Education,Darrellchester,1719500,319,2.8,547,4,4.24,Positive
+Harris-Evans,Tech,East Brandonview,4972966,380,3.7,168,43,-2.64,Positive
+Nguyen Inc,Finance,Lewisland,1731002,64,4.1,42,10,14.06,Neutral
+Cruz PLC,Healthcare,Jasonmouth,183438,474,4.0,434,41,0.9,Neutral
+"Murphy, Parker and Jones",Healthcare,Leview,1483724,216,4.2,171,39,-3.02,Positive
+Perkins-Ingram,Retail,New Alexisbury,1303448,451,3.4,928,31,6.82,Negative
+Adams-Miller,Retail,Lake Jeremyside,3230557,129,3.0,42,43,10.12,Neutral
+Adams-Reyes,Education,West Melissa,4929572,266,4.1,504,9,-4.91,Negative
+Clark Ltd,Retail,Batesborough,2512246,471,4.5,295,43,0.74,Neutral
+"Mathews, Moore and Parker",Retail,Hannahfort,1647122,484,3.5,718,45,9.14,Neutral
+Michael PLC,Healthcare,Vanessashire,2024242,278,3.0,135,42,6.54,Negative
+Martinez Inc,Finance,South Paulamouth,3085696,489,1.1,104,35,6.6,Negative
+Wilkins-Vance,Healthcare,Thompsonport,325819,307,1.3,650,46,8.8,Positive
+Stevens Ltd,Retail,Lake Amanda,2515499,476,2.2,981,7,-2.45,Negative
+Bowen and Sons,Retail,Kaylafurt,2689497,314,1.7,810,21,4.48,Negative
+Barnes and Sons,Retail,West Robertfurt,813138,218,1.9,184,26,13.55,Negative
+Carroll-Wang,Healthcare,North Sarah,2209426,458,4.6,989,39,13.0,Negative
+Myers-Perkins,Education,Coreychester,1865056,372,4.3,665,40,-0.8,Neutral
+Bradshaw-Roy,Tech,West Briannafurt,1812572,154,4.8,576,46,5.77,Positive
+"Hernandez, Stevens and Collins",Healthcare,South Annabury,1747833,40,3.3,597,47,-0.89,Positive
+Smith-Harris,Finance,East Tracy,4493798,124,2.5,73,25,9.93,Negative
+Harris-Gardner,Retail,Clarkberg,4938722,143,1.9,167,48,6.87,Neutral
+Thompson-Martinez,Retail,Barrettside,2189337,406,4.4,361,42,14.62,Positive
+Sullivan Group,Retail,Kentville,4862790,120,4.6,289,3,11.45,Negative
+Brown Ltd,Retail,North Daleburgh,1739877,147,2.3,705,42,12.76,Negative
+Miller LLC,Retail,East Kelsey,81857,56,3.5,689,44,9.81,Neutral
+"Jackson, Casey and Brady",Retail,Kathyport,1988526,250,3.2,745,14,1.99,Neutral
+Molina-Grant,Retail,Josetown,3432347,313,4.5,876,23,14.91,Neutral
+Hunter-George,Finance,New Jesseville,2431144,339,1.6,652,17,1.09,Negative
+Farley-Garner,Tech,New Ashleyburgh,1975554,106,1.0,260,47,11.02,Neutral
+Williams-Brown,Tech,New Jose,979829,154,2.5,471,50,-1.84,Negative
+"Coleman, Sanders and Murray",Education,North Patrick,4240645,361,1.6,444,8,13.21,Negative
+Nicholson-Hawkins,Tech,Bryanchester,1407907,180,4.8,965,36,12.75,Positive
+"Garcia, Garcia and Ryan",Education,Shafferview,2494966,425,1.7,543,6,6.7,Negative
+Rivera PLC,Education,Stevenston,2372603,85,3.0,258,47,14.45,Negative
+"White, Vasquez and Garcia",Retail,Georgemouth,2220380,322,4.2,542,11,14.06,Positive
+"Buckley, Robinson and Kennedy",Tech,Johnsonburgh,112569,243,1.1,123,25,7.68,Negative
+King Inc,Tech,South Bethany,401739,319,1.5,272,14,9.6,Negative
+Bradshaw-Irwin,Retail,Lauraville,296564,486,2.4,842,13,1.91,Negative
+Wilson Inc,Healthcare,New Michaelfurt,4312287,396,3.1,14,4,3.47,Neutral
+Newman-Taylor,Tech,Cruzshire,2211167,296,3.4,321,24,1.31,Negative
+Wood and Sons,Finance,Port Erik,3350582,211,4.1,900,18,-3.66,Negative
+Friedman-Salazar,Tech,Port Nancybury,492840,343,4.6,911,7,6.57,Negative
+Williams-Schultz,Education,Shermanfurt,3282703,268,3.6,561,6,10.02,Neutral
